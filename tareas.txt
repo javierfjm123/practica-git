@@ -1,1 +1,2 @@
 1. Investigar que es Git
+2. Preparar ejemplos para la exposicion
